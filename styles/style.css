@@ -42,6 +42,9 @@ body {
     text-align: center;
     margin-top: 130px;
 }
+.offer {
+    width: 1320px;
+}
 .offer-subtitle {
     font-family: "inter", serif;
     font-size: 24px;
